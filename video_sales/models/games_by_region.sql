@@ -68,5 +68,4 @@ select * from na_ranking union all
 select * from jp_ranking union all
 select * from eu_ranking union all
 select * from other_ranking union all
-select * from global_ranking;
-
+select * from global_ranking
